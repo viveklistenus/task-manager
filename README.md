@@ -21,7 +21,7 @@ To get started with the Task Manager application, follow these steps:
 
 1. Clone the repository: ```git clone https://github.com/your-username/task-manager.git``` 
 2. Install the dependencies: ```npm install```
-3. Create a MySQL database and update the connection details in `app.js` file: ```
+3. Create a MySQL database and update the connection details in `app.js` file: ```javascript
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'your-username',
