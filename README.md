@@ -41,4 +41,8 @@ The Task Manager application exposes the following API endpoints:
 - PUT /api/tasks/:id: Updates an existing task on the server.
 - DELETE /api/tasks/:id: Deletes a task from the server.
 
+## ScreenShot
+- ![image](https://github.com/viveklistenus/task-manager/assets/28853520/001087d0-72f9-46d9-aefa-dbf8a6a21c0f)
+
+
 Please note that you should replace `your-username` and `your-password` with your actual MySQL database credentials, and modify the installation and running steps if needed.
