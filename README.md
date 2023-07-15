@@ -33,3 +33,12 @@ const connection = mysql.createConnection({
 4. Run the application:```npm start```
 5. Open your web browser and visit ```http://localhost:5555``` to access the Task Manager application.
 
+## API Endpoints
+The Task Manager application exposes the following API endpoints:
+
+- GET /api/tasks: Fetches all tasks from the server.
+- POST /api/tasks: Adds a new task to the server.
+- PUT /api/tasks/:id: Updates an existing task on the server.
+- DELETE /api/tasks/:id: Deletes a task from the server.
+
+Please note that you should replace `your-username` and `your-password` with your actual MySQL database credentials, and modify the installation and running steps if needed.
