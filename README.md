@@ -28,6 +28,7 @@ const connection = mysql.createConnection({
   user: 'your-username',
   password: 'your-password',
   database: 'task_manager'
-});
-
+});```
+4. Run the application:```npm start```
+5. Open your web browser and visit ```http://localhost:5555``` to access the Task Manager application.
 
