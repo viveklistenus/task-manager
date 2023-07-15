@@ -11,10 +11,10 @@ app.use(bodyParser.json());
 
 // Create MySQL connection
 const connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: '7895123',
-  database: 'task_manager'
+  host: 'sql6.freemysqlhosting.net',
+  user: 'sql6632905',
+  password: 'B8PaWxTYKp',
+  database: 'sql6632905'
 });
 
 // Connect to MySQL
