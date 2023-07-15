@@ -2,7 +2,7 @@
 
 Task Manager is a simple web application that allows you to manage your tasks. You can add new tasks, update existing tasks, and delete tasks using this application.
 
-## Live Link: ```https://adventurous-earrings-deer.cyclic.app/```
+## Live Link: https://adventurous-earrings-deer.cyclic.app/
 
 ## Features
 
