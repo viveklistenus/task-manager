@@ -1,6 +1,6 @@
 # Task Manager
 
-<img src="https://imgur.com/gallery/pmABWrG"></img>
+<img src="https://i.imgur.com/DCMSM2I.png"></img>
 
 Task Manager is a simple web application that allows you to manage your tasks. You can add new tasks, update existing tasks, and delete tasks using this application.
 
